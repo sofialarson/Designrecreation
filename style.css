@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Heebo);
+
+body {
+  font-family: 'Heebo';
+}
+
+h1, h2, h3, p {
+  color:white;
+}
+
+h1 {
+  letter-spacing: 10px;
+  font-stretch: semi-expanded;
+}
+
+.korean h3 {
+  letter-spacing: 3px;
+}
+
+.swissstuff h3 {
+  font-weight: lighter;
+  letter-spacing: 5px;
+}
+
+hr {
+  border: 1px solid #e36160;
+  background-color: #e36160;
+}
+
+.plus {
+  display: flex;
+  justify-content: center;
+}
